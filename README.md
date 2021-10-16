@@ -71,4 +71,6 @@ For the Fifth, and final attempt, we added more neurons to our second hidden lay
 
 ## Project Summary
 
+Unfortunately, our deep learning neural network model did not reach the target accuracy of 75%. Our average accuracy overall did not stray too far from our original model's accuracy of 72.65%, with all of our optimizations resulting in the 72% range themselves with slight decimal variance. 
 
+Since we are using binary classification, it could be more beneficial to use a Supervised-Machine-Learning Model to analyze the data. Using a Random Forest Classifier, to combine a multitude of decision trees could help create a more accurate analysis with its number of estimators and depth with optimal speed that minimizes the data being overfitted. We could also drop more features to potentiall improve our optimization. Collecting more data in our dataset is always a great way to potentiall improve our analysis' accuracy. 
